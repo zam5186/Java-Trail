@@ -4,4 +4,8 @@ class demo
 	{
 		// Code
 	}
+	public void test1()
+	{
+		// Code1
+	}
 }
